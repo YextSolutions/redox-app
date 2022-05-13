@@ -1,10 +1,9 @@
 {
-  "$id": "healthcareProfessional.default",
+  "$id": "healthcareProfessional.redox",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Healthcare Professional-default",
+  "name": "Healthcare Professional-redox",
   "entityType": "healthcareProfessional",
   "fields": [
-    "redox_redoxHealthcareFacility",
     "redox_webhookLocationID"
   ]
 }
